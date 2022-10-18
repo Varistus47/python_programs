@@ -1,3 +1,7 @@
+# run these commenta in cmd if you didn't installed these packages
+# pip install colorama
+# pip install random
+
 import colorama
 from colorama import Fore 
 import random
